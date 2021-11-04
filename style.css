@@ -1,0 +1,17 @@
+/*================================
+Theme Name: MMB Theme 1
+Theme URI: #
+Version: 1.0.0
+Requires at least: 4.7
+Requires PHP: 5.2.4
+Author: MD. Mahidul Islam
+Author URI: https://www.facebook.com/mmbmahidul.007/
+Text Domain: mmbtheme1
+Description: This is my very first wordpress theme developing.
+Tags: blog, one-column, custom-background, custom-colors, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, block-patterns, block-styles, wide-blocks, accessibility-ready
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+=================================*/
+body{
+    background-color: red;
+}
